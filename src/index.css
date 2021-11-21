@@ -1,0 +1,22 @@
+.custom-btn {
+	background-color: #016450 !important;
+	color: #fff;
+	border: #fff !important;
+}
+
+.marg_left {
+	line-height: 16px;
+	margin-left: 12px;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.marg_right {
+	margin-right: 12px;
+}
